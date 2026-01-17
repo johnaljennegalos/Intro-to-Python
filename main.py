@@ -13,5 +13,8 @@
 #
 # print(random.randint(1,100))
 
-for x in "banana":
-    print(x, end=" ")
+# for x in "banana":
+#     print(x, end=" ")
+
+x = ['banana', 'apple', 'red']
+print(x[0])
